@@ -1,10 +1,11 @@
 package main
 
 import (
-    "bufio"
-    "strings"
-    "os"
-    "fmt"
+	"bufio"
+	"fmt"
+	"os"
+
+	"github.com/kpderoshxyz/system-utils/internal/mask"
 )
 
 // Read in standard input and write mask to standard output
